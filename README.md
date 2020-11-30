@@ -2,6 +2,14 @@
 
 <a href="https://www.packtpub.com/application-development/hands-computer-vision-tensorflow-2?utm_source=github&utm_medium=repository&utm_campaign=9781788830645"><img src="./banner_images/book_cover.png" alt="Hands-On Computer Vision with TensorFlow 2" height="270px" align="right"></a>
 
+한국 출판사에서 예제 코드 업데이트한 깃허브 디렉토리 <br>
+
+
+**실전! 텐서플로 2를 활용한 딥러닝 컴퓨터 비전** <br>
+텐서플로 2.0과 케라스를 활용한 강력한 이미지 처리 애플리케이션 만들기<br>
+벤자민 플랜치, 앨리엇 안드레스 저/김정인 역 | 위키북스 | 2020년 06월 02일
+
+
 **Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras**
 
 This is the code repository for [Hands-On Computer Vision with TensorFlow 2](https://www.packtpub.com/application-development/hands-computer-vision-tensorflow-2) by [Benjamin Planche](https://github.com/benjaminplanche) and [Eliot Andres](https://github.com/EliotAndres), published by Packt. 
